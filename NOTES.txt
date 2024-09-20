@@ -1,8 +1,4 @@
-# Machine Learning Sample Codes
-
-Machine Learning sample codes from my ML subject's assignments
-
-## NOTES
+**NOTE**
 
 Pada umumnya, code yang ada dalam ML merupakan template (terkecuali diminta parameternya). Untuk parameter-parameter dari masing-masing model bisa dilihat dari:
 
