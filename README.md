@@ -1,6 +1,6 @@
 # Machine Learning Sample Codes
 
-Machine Learning sample codes from my ML subject's assignments
+Machine Learning sample codes from my ML subject's assignments. The theoretical notes are available on: https://elite-snowstorm-c78.notion.site/Machine-Learning-c6f9b04f2fc146b6a488d3a9ed4cb8ab?pvs=4 (Unfinished)
 
 ## NOTES
 
